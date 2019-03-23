@@ -1,4 +1,4 @@
-# Style Components _(Cliffs Notes)_
+# [Styled Components](https://www.styled-components.com/) _(Cliffs Notes)_
 
 ## CSS in Javascript 😱
 
@@ -260,9 +260,9 @@ const MyApp = () => (
 ```javascript
 const GlobalStyle = createGlobalStyle`
   button {
-  background: transparent;
-  border: 0;
-  padding: 0;
+    background: transparent;
+    border: 0;
+    padding: 0;
   }
 `;
 
@@ -458,7 +458,7 @@ _[What are they](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Referen
 
 ```javascript
 const myFnc = (
-  strings, // ["↵	padding: ", ";↵	color: ", ";↵"
+  strings, // ["↵  padding: ", ";↵  color: ", ";↵"]
   ...values // ["10px", "red"]
 ) =>
   (
@@ -473,8 +473,8 @@ const myFnc = (
 
 // Create a fictitious style declaration.
 myFnc`
-	padding: ${"10px"};
-	color: ${"red"};
+  padding: ${"10px"};
+  color: ${"red"};
 `;
 ```
 
@@ -730,7 +730,7 @@ _SASS mixins, but in real time..._
 ### Measurement Transformations
 
 - ✔ Isolate `value` and `unit`
-- ✔ Ad `CSS` values together
+- ✔ Add `CSS` values together
 
 ### General Helpers
 
