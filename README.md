@@ -16,7 +16,7 @@
 - ✔ [Enzyme Hooks](https://www.styled-components.com/docs/api#enzymefind)
 - ✔ [Linting Support _(Style Lint)_](https://www.styled-components.com/docs/tooling#stylelint)
 
-[🔽 Next](xxxxxx)
+[🔽 Next](https://github.com/devonChurch/fish-pie#agenda-)
 
 .
 
@@ -40,17 +40,17 @@
 
 ## Agenda 🗒
 
-- 🕐 [Composition](xxxxxxx)
-- 🕑 [Styles](xxxxxxx)
-- 🕒 [Inheritance](xxxxxxx)
-- 🕓 [Dynamic](xxxxxxx)
-- 🕔 [Tagged Templates](xxxxxxx)
-- 🕕 [Polymorphism](xxxxxxx)
-- 🕖 [Pseudo Elements](xxxxxxx)
-- 🕗 [Theming](xxxxxxx)
-- 🕘 [Polished](xxxxxxx)
+- 🕐 [Composition](https://github.com/devonChurch/fish-pie#composition-)
+- 🕑 [Styles](https://github.com/devonChurch/fish-pie#styles-)
+- 🕒 [Inheritance](https://github.com/devonChurch/fish-pie#inheritance-)
+- 🕓 [Dynamic](https://github.com/devonChurch/fish-pie#dynamic-)
+- 🕔 [Tagged Templates](https://github.com/devonChurch/fish-pie#tagged-templates-)
+- 🕕 [Polymorphism](https://github.com/devonChurch/fish-pie#polymorphism-)
+- 🕖 [Pseudo Elements](https://github.com/devonChurch/fish-pie#pseudo-elements-)
+- 🕗 [Theming](https://github.com/devonChurch/fish-pie#theming-)
+- 🕘 [Polished](https://github.com/devonChurch/fish-pie#polished-)
 
-[🔽 Next](xxxxxx)
+[🔽 Next](https://github.com/devonChurch/fish-pie#composition-)
 
 .
 
@@ -88,7 +88,7 @@ ReactDOM.render(<Button>Hello World</Button>, document.getElementById("app"));
 
 ![1](https://user-images.githubusercontent.com/15273233/54859129-723f4080-4d6e-11e9-95ab-99c12720a98e.png)
 
-[🔽 Next](xxxxxx)
+[🔽 Next](https://github.com/devonChurch/fish-pie#styles-)
 
 .
 
@@ -138,7 +138,7 @@ const MyApp = () => <Button>Hello World</Button>;
 
 ![2](https://user-images.githubusercontent.com/15273233/54859430-fb0bab80-4d71-11e9-9cf8-1123fed27aea.png)
 
-[🔽 Next](xxxxxx)
+[🔽 Next](https://github.com/devonChurch/fish-pie#inheritance-)
 
 .
 
@@ -200,6 +200,8 @@ const MyApp = () => (
 
 ![3](https://user-images.githubusercontent.com/15273233/54859518-f7c4ef80-4d72-11e9-91a4-3cbe52c111f1.png)
 
+[🔽 Next](https://github.com/devonChurch/fish-pie#snippet-structure-)
+
 .
 
 .
@@ -243,7 +245,7 @@ const MyApp = () => (
 
 ![3](https://user-images.githubusercontent.com/15273233/54859518-f7c4ef80-4d72-11e9-91a4-3cbe52c111f1.png)
 
-[🔽 Next](xxxxxx)
+[🔽 Next](https://github.com/devonChurch/fish-pie#global-structure-)
 
 .
 
@@ -290,7 +292,7 @@ const MyApp = () => (
 
 ![3](https://user-images.githubusercontent.com/15273233/54859518-f7c4ef80-4d72-11e9-91a4-3cbe52c111f1.png)
 
-[🔽 Next](xxxxxx)
+[🔽 Next](https://github.com/devonChurch/fish-pie#dynamic-)
 
 .
 
@@ -341,7 +343,7 @@ const MyApp = () => (
 
 ![3](https://user-images.githubusercontent.com/15273233/54859518-f7c4ef80-4d72-11e9-91a4-3cbe52c111f1.png)
 
-[🔽 Next](xxxxxx)
+[🔽 Next](https://github.com/devonChurch/fish-pie#abstract-logic-)
 
 .
 
@@ -378,7 +380,7 @@ const MyApp = () => (
 
 ![3](https://user-images.githubusercontent.com/15273233/54859518-f7c4ef80-4d72-11e9-91a4-3cbe52c111f1.png)
 
-[🔽 Next](xxxxxx)
+[🔽 Next](https://github.com/devonChurch/fish-pie#style-blocks-)
 
 .
 
@@ -426,7 +428,7 @@ const MyApp = () => (
 
 ![4](https://user-images.githubusercontent.com/15273233/54860001-cb13d680-4d78-11e9-89fa-4b76fc3089a2.png)
 
-[🔽 Next](xxxxxx)
+[🔽 Next](https://github.com/devonChurch/fish-pie#tagged-templates-)
 
 .
 
@@ -448,7 +450,7 @@ const MyApp = () => (
 
 .
 
-## Tagged Templates 🐘⃣
+## Tagged Templates 💍
 
 _[What are they](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#Tagged_templates) and [how do they work](https://mxstbr.blog/2016/11/styled-components-magic-explained/)..._
 
@@ -483,7 +485,7 @@ padding: 10px;
 color: red;
 ```
 
-[🔽 Next](xxxxxx)
+[🔽 Next](https://github.com/devonChurch/fish-pie#polymorphism-)
 
 .
 
@@ -542,7 +544,7 @@ const MyApp = () => (
 
 ![5](https://user-images.githubusercontent.com/15273233/54860831-aa517e00-4d84-11e9-8711-94b07588843c.png)
 
-[🔽 Next](xxxxxx)
+[🔽 Next](https://github.com/devonChurch/fish-pie#pseudo-elements-)
 
 .
 
@@ -619,7 +621,7 @@ const MyApp = () => (
 
 ![6](https://user-images.githubusercontent.com/15273233/54862977-3d031480-4da7-11e9-82c2-8d344a8cb2a9.gif)
 
-[🔽 Next](xxxxxx)
+[🔽 Next](https://github.com/devonChurch/fish-pie#theming-)
 
 .
 
@@ -694,7 +696,7 @@ const MyApp = () => {
 
 ![7](https://user-images.githubusercontent.com/15273233/54863399-1051fb80-4dad-11e9-9849-1ab6b9229f02.gif)
 
-[🔽 Next](xxxxxx)
+[🔽 Next](https://github.com/devonChurch/fish-pie#polished-)
 
 .
 
@@ -735,7 +737,7 @@ _SASS mixins, but in real time..._
 - ✔ Create _retina_ image declaration
 - ✔ Hide content _accessibly_
 
-[🔽 Next](xxxxxx)
+[🔽 Next](https://github.com/devonChurch/fish-pie#thanks-)
 
 .
 
@@ -763,4 +765,4 @@ _Any questions?..._
 
 ![](https://media.giphy.com/media/xQAkOKngoJXOw/giphy.gif)
 
-[🔼 Back to Top](xxxxxx)
+[🔼 Back to Top](https://github.com/devonChurch/fish-pie#style-components-cliffs-notes)
