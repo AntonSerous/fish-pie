@@ -76,6 +76,8 @@
 
 _Lets make a button..._
 
+### React ⚛
+
 ##### Input ✏
 
 ```javascript
@@ -87,6 +89,34 @@ ReactDOM.render(<Button>Hello World</Button>, document.getElementById("app"));
 ##### Output 💎
 
 ![1](https://user-images.githubusercontent.com/15273233/54859129-723f4080-4d6e-11e9-95ab-99c12720a98e.png)
+
+[🔽 Next](xxxx)
+
+.
+
+.
+
+.
+
+### DOM Injection 💾
+
+##### Output 💎
+
+![dom-output](https://user-images.githubusercontent.com/15273233/55283414-24a28380-53bf-11e9-81db-d50b89afdbcc.png)
+
+[🔽 Next](xxxx)
+
+.
+
+.
+
+.
+
+### It's just CSS 😵
+
+##### Output 💎
+
+![change-inspector](https://user-images.githubusercontent.com/15273233/55283345-a8f40700-53bd-11e9-9baa-ebe0e9fee485.gif)
 
 [🔽 Next](https://github.com/devonChurch/fish-pie#styles-)
 
@@ -114,6 +144,8 @@ ReactDOM.render(<Button>Hello World</Button>, document.getElementById("app"));
 
 _Lets add some styles..._
 
+### Traditional 💡
+
 ##### Input ✏
 
 ```javascript
@@ -132,6 +164,40 @@ const Button = styled.button`
 `;
 
 const MyApp = () => <Button>Hello World</Button>;
+```
+
+##### Output 💎
+
+![2](https://user-images.githubusercontent.com/15273233/54859430-fb0bab80-4d71-11e9-9cf8-1123fed27aea.png)
+
+[🔽 Next](xxxxx)
+
+.
+
+.
+
+.
+
+### Shortcut 🔦
+
+##### Input ✏
+
+```javascript
+const MyApp = () => (
+  <button css={`
+    // Reset.
+    background: transparent;
+    border: 0;
+    padding: 0;
+
+    // Custom.
+    background: blue;
+    border-radius: 0.2rem;
+    color: white;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+  `}>Hello World</button>
+);
 ```
 
 ##### Output 💎
@@ -765,6 +831,6 @@ _Any questions?..._
 
 ![](https://media.giphy.com/media/xQAkOKngoJXOw/giphy.gif)
 
-Try out a [CodePen]()(https://codepen.io/DevonChurch/pen/OqrdPV?editors=0010) that has React / Styled Components integration.
+Try out a [CodePen](https://codepen.io/DevonChurch/pen/OqrdPV?editors=0010) that has React / Styled Components integration.
 
 [🔼 Back to Top](https://github.com/devonChurch/fish-pie#style-components-cliffs-notes)
