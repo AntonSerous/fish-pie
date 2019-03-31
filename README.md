@@ -90,7 +90,7 @@ ReactDOM.render(<Button>Hello World</Button>, document.getElementById("app"));
 
 ![1](https://user-images.githubusercontent.com/15273233/54859129-723f4080-4d6e-11e9-95ab-99c12720a98e.png)
 
-[🔽 Next](xxxx)
+[🔽 Next](https://github.com/devonChurch/fish-pie/blob/master/README.md#dom-injection-)
 
 .
 
@@ -104,7 +104,7 @@ ReactDOM.render(<Button>Hello World</Button>, document.getElementById("app"));
 
 ![dom-output](https://user-images.githubusercontent.com/15273233/55283414-24a28380-53bf-11e9-81db-d50b89afdbcc.png)
 
-[🔽 Next](xxxx)
+[🔽 Next](https://github.com/devonChurch/fish-pie/blob/master/README.md#its-just-css-)
 
 .
 
@@ -170,7 +170,7 @@ const MyApp = () => <Button>Hello World</Button>;
 
 ![2](https://user-images.githubusercontent.com/15273233/54859430-fb0bab80-4d71-11e9-9cf8-1123fed27aea.png)
 
-[🔽 Next](xxxxx)
+[🔽 Next](https://github.com/devonChurch/fish-pie/blob/master/README.md#shortcut-)
 
 .
 
