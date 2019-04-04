@@ -639,7 +639,7 @@ _Just like regular CSS..._
 ##### Input ✏
 
 ```javascript
-const Button styled.button`
+const Button = styled.button`
   background: blue;
   border: 1px solid blue;
   border-radius: 0.2rem;
